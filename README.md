@@ -5,7 +5,7 @@ Use the following command to build docker image:
 docker build -t jupyter .
 ```
 
-The `-t` flag specifies that we want to give the image a specific name (in our case jupyter). 
+The `-t` flag specifies that we want to give the image a specific name (in our case `jupyter`). 
 
 The `.` at the end of the command specifies the directory in which the *Dockerfile* lies. In our case this is our current working directory which we specify with a dot.
 
